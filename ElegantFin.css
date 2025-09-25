@@ -62,8 +62,8 @@
     --shadow:.1em .1em .15em hsla(0,0%,0%,.3);
     --headerBlurLayerVisibility:"";
     --headerBackground:var(--headerColorGradient);
-    --loginPageBgUrl:url("");
-    --loginPageText:"Sign in to continue";
+    --loginPageBgUrl:url("/Branding/Splashscreen?format=jpg&foregroundLayer=20.0");
+    --loginPageText:"";
     --overlayPlayButtonPosition:2.8em;
     --iconPack:'Material Icons Round',Material Icons;
     --extraCardButtonsVisibility:none;
