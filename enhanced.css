@@ -32,7 +32,7 @@
     --btnSubmitColor: rgb(61, 54, 178);
     --btnSubmitBorderColor: rgb(117 111 226);
     --checkboxCheckedBgColor: rgb(229, 9, 20);
-    --highlightOutlineColor: rgb(37, 99, 235);
+    --highlightOutlineColor: rgb(229, 9, 20);
     --defaultBorder: var(--borderWidth) solid var(--borderColor);
     --defaultLighterBorder: var(--borderWidth) solid var(--lighterBorderColor);
     --textColor: rgb(209, 213, 219);
