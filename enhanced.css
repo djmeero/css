@@ -3022,8 +3022,8 @@ div[data-role="controlgroup"] a.ui-btn-active {
     .emby-select-withcolor:focus,
     .emby-input:focus,
     .emby-textarea:focus {
-        border-color: var(--highlightOutlineColor) !important;
-        outline: thin solid var(--highlightOutlineColor) !important
+        border-color: var(--vue-color-lighter)!important;
+        outline: thin solid var(--vue-color-lighter)!important;
     }
 }
 
