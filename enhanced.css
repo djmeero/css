@@ -16,7 +16,7 @@
     --borderColor: hsl(214, 13%, 32%);
     --darkerBorderColor: hsl(214, 13%, 22%);
     --lighterBorderColor: hsla(0, 0%, 100%, .2);
-    --selectorBackgroundColor: rgb(229, 9, 20);
+    --selectorBackgroundColor: rgb(55, 65, 81);
     --selectorBackgroundColorAlpha: rgba(55, 65, 81, .5);
     --activeColorAlpha: rgba(119, 91, 244, .9);
     --activeColor: rgb(119, 91, 244);
