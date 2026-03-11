@@ -104,6 +104,7 @@
    ROOT TOKENS  (Matrix Red values)
    ──────────────────────────────────────────────────────────── */
 :root {
+  --default-font: "Netflix Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   --elegantFinFooterText: "Netflix Red";
   color-scheme: dark;
 
