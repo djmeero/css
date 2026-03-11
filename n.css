@@ -3611,3 +3611,6 @@ ul.MuiList-root.MuiMenu-list.MuiList-dense > div:first-child { gap: .5rem; }
 .listItemImageButton:hover {
   background-color: rgb(220,0,0) !important;
 }
+* {
+  font-family: "Netflix Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
