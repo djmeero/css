@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="456" height="96" viewBox="0 0 456 96">
+  <g transform="translate(0,8) scale(0.25)">
+    <path fill="#E50914" d="M128 80 L208 80 L304 304 L304 80 L384 80 L384 432 L304 432 L208 208 L208 432 L128 432 Z"/>
+  </g>
+  <text x="120" y="64" font-family="Bebas Neue, Arial Black, sans-serif" font-size="64" fill="#FFFFFF" dominant-baseline="middle">REQUESTS</text>
+</svg>
