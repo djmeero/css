@@ -3007,7 +3007,7 @@ ul.MuiList-root.MuiMenu-list.MuiList-dense > div:first-child { gap: .5rem; }
   padding: 5em 2em 1em 2em !important;
   border-radius: var(--largerRadius);
   box-sizing: border-box;
-  transform: translateY(0);
+  transform: none;
   border: 1px solid var(--borderColor);
   box-shadow: 0 0 40px rgba(204,0,0,.12);
 }
