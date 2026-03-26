@@ -2996,14 +2996,9 @@ ul.MuiList-root.MuiMenu-list.MuiList-dense > div:first-child { gap: .5rem; }
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
-  padding: 1em;
-  overflow-y: auto;
-  background: var(--loginPageBgUrl);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  box-sizing: border-box;
+  height: 100dvh;        /* 🔥 better for mobile */
+  padding: 0;            /* optional: removes extra scroll space */
+  overflow: hidden;      /* 🔒 disables scroll */
 }
 
 #loginPage .padded-left.padded-right.padded-bottom-page {
@@ -3012,7 +3007,7 @@ ul.MuiList-root.MuiMenu-list.MuiList-dense > div:first-child { gap: .5rem; }
   padding: 5em 2em 1em 2em !important;
   border-radius: var(--largerRadius);
   box-sizing: border-box;
-  transform: translateY(3em);
+  transform: translateY(0);
   border: 1px solid var(--borderColor);
   box-shadow: 0 0 40px rgba(204,0,0,.12);
 }
