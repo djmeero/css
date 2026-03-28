@@ -8,8 +8,8 @@
 /* ============================================================
    DYNAMIC SCALING - No Scrolling
    ============================================================ */
-body.login-page,
-body.login-page html {
+html:has(body.login-page),
+body.login-page {
   margin: 0;
   padding: 0;
   width: 100%;
